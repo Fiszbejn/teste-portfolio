@@ -129,6 +129,10 @@ body{
         width: 100%;
     }
 
+    .apresentacao__links__navegacao {
+        width: 70%;
+    }
+
     .apresentacao__links__navegacao:hover {
         background-color: #000000;
     }
@@ -156,6 +160,13 @@ body{
         width: 100%;
     }
 
+    .apresentacao__links__subtitulo {
+        font-size: 1.3rem;
+    }
+
+    .apresentacao__links__navegacao {
+        width: 70%;
+    }
 
     .apresentacao__links__navegacao:hover {
         background-color: #000000;
